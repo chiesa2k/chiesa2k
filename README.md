@@ -8,7 +8,7 @@
 
 
 
-[[![GitHub Streak](https://streak-stats.demolab.com?user=chiesa2k&theme=gruvbox-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chiesa2k&theme=gruvbox-duo)](https://git.io/streak-stats)
 
 
 
